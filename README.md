@@ -8,17 +8,17 @@ I'm skilled in a variety of programming languages and web technologies such as T
 I'm proficient in both Front-end and Back-end development and possess excellent communication skills. With a strong focus on problem-solving, I can work independently or as part of a team.<br/>
 I have a bachelor's degree in computer science and am passionate about creating innovative web applications.<br/>
 
-Skills:<br/>
+## Skills:<br/>
 
--Technical Skills:<br/>
+### -Technical Skills:<br/>
 
-  • Back End :
+  #### • Back End :
    - TypesScript<br/>
    - NEXT<br/>
    - Node.js<br/>
    - Express<br/>
 
-  • Front End:
+  #### • Front End:
    - React<br/>
    - Tailwind<br/>
    - Shadcn<br/>
@@ -27,24 +27,24 @@ Skills:<br/>
    - CSS<br/>
    - HTML<br/>
 
-  • Databases:
+  #### • Databases:
    - MongoDB<br/>
    - Mongoose<br/>
    - MySQL<br/>
    - Prisma ORM<br/>
 
-  • CMS & Platforms:
+  #### • CMS & Platforms:
    - Wordpress<br/>
    - Sanity<br/>
    - Stripe<br/>
 
-  • Auth & Tools:
+  #### • Auth & Tools:
    - Clerk<br/>
    - Firebase<br/>
    - Next Auth<br/>
    - Passport.js<br/>
 
--Soft Skills:<br/>
+### -Soft Skills:<br/>
    - Effective communication skills
    - Leadership & Management
    - Resarch Skill
@@ -53,10 +53,10 @@ Skills:<br/>
    - Teamwork
    - Customer Service
    
-Experience:
+## Experience:
 
-- Senior Full Stack Developer<br/>
-  Amirkabir Carpet | Oct 2020 to Oct 2023 (3Years)<br/>
+### - Senior Full Stack Developer<br/>
+  #### Amirkabir Carpet | Oct 2020 to Oct 2023 (3Years)<br/>
   • Designed and developed responsive and user-friendly web applications using Typescript, NEXT & MERN Stack( React, Node.js, Express, and MongoDB ).<br/>
 
   • Designed and developed the company's website using WordPress, PHP, and MySQL .<br/>
@@ -66,8 +66,8 @@ Experience:
   • Digital marketing: SEO of the site and products along with creating more than 200 exclusive Instagram posts and designing a beautiful template for the posts.<br/>
 
 
-- Full Stack Developer<br/>
-    Amiran Textile | Oct 2016 to Sep 2020 (4Years)<br/>
+### - Full Stack Developer<br/>
+    #### Amiran Textile | Oct 2016 to Sep 2020 (4Years)<br/>
     • Designed and developed the company's website using WordPress, PHP, and MySQL .<br/>
 
     • Designed and implemented user interfaces using HTML, CSS, and JavaScript.<br/>
@@ -77,7 +77,7 @@ Experience:
     • Conducted market analysis, improved digital marketing, and strengthened branding, resulting in the addition of 29+ sales representatives and increased sales.<br/>
 
 
-Education:
+## Education:
 
-- Bachelor's degree in Web Design & Development
-    • University of Applied Science and Technology
+### - Bachelor's degree in Web Design & Development
+    #### • University of Applied Science and Technology
