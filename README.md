@@ -11,6 +11,7 @@ I have a bachelor's degree in computer science and am passionate about creating 
 Skills:<br/>
 
 -Technical Skills:<br/>
+
   • Back End :
    - TypesScript<br/>
    - NEXT<br/>
@@ -76,3 +77,7 @@ Experience:
     • Conducted market analysis, improved digital marketing, and strengthened branding, resulting in the addition of 29+ sales representatives and increased sales.<br/>
 
 
+Education:
+
+- Bachelor's degree in Web Design & Development
+    • University of Applied Science and Technology
