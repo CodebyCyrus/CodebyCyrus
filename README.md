@@ -8,6 +8,25 @@ I'm skilled in a variety of programming languages and web technologies such as T
 I'm proficient in both Front-end and Back-end development and possess excellent communication skills. With a strong focus on problem-solving, I can work independently or as part of a team.<br/>
 I have a bachelor's degree in computer science and am passionate about creating innovative web applications.<br/>
 
+Skills:
+
+-Technical Skills:
+Back End :
+TypesScript, NEXT, Node.js, Express
+
+Front End:
+React, Tailwind, Shadcn, Bootstrap, HTML, CSS, JavaScript
+
+Databases:
+MongoDB, Mongoose, MySQL, Prisma ORM
+
+CMS & Platforms:
+Wordpress, Sanity, Stripe
+
+Auth & Tools:
+Clerk, Firebase, Next Auth, Passport.js
+
+
 Experience:
 
 - Senior Full Stack Developer<br/>
