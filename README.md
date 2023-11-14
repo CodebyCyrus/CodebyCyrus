@@ -21,15 +21,15 @@ React, Tailwind, Shadcn, Bootstrap, HTML, CSS, JavaScript
 MongoDB, Mongoose, MySQL, Prisma ORM
 
   • CMS & Platforms:<br/>
-   • Wordpress<br/>
-   • Sanity<br/>
-   • Stripe<br/>
+   - Wordpress<br/>
+   - Sanity<br/>
+   - Stripe<br/>
 
   • Auth & Tools:<br/>
-   • Clerk<br/>
-   • Firebase<br/>
-   • Next Auth<br/>
-   • Passport.js<br/>
+   - Clerk<br/>
+   - Firebase<br/>
+   - Next Auth<br/>
+   - Passport.js<br/>
 
    
 Experience:
