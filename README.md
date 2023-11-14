@@ -8,17 +8,27 @@ I'm skilled in a variety of programming languages and web technologies such as T
 I'm proficient in both Front-end and Back-end development and possess excellent communication skills. With a strong focus on problem-solving, I can work independently or as part of a team.
 I have a bachelor's degree in computer science and am passionate about creating innovative web applications.
 
-<!--
-**CodebyCyrus/CodebyCyrus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experience:
 
-Here are some ideas to get you started:
+- Senior Full Stack Developer
+  Amirkabir Carpet | Oct 2020 to Oct 2023 (3Years)
+  • Designed and developed responsive and user-friendly web applications using Typescript, NEXT & MERN Stack( React, Node.js, Express, and MongoDB ).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  • Designed and developed the company's website using WordPress, PHP, and MySQL .
+
+  • Contributed to the development of internal tools and frameworks to improve the efficiency and consistency of development processes.
+
+  • Digital marketing: SEO of the site and products along with creating more than 200 exclusive Instagram posts and designing a beautiful template for the posts.
+
+
+  - Full Stack Developer
+    Amiran Textile | Oct 2016 to Sep 2020 (4Years)
+    • Designed and developed the company's website using WordPress, PHP, and MySQL .
+
+    • Designed and implemented user interfaces using HTML, CSS, and JavaScript.
+
+    • Contributed to developing internal tools and processes, improving efficiency and quality.
+
+    • Conducted market analysis, improved digital marketing, and strengthened branding, resulting in the addition of 29+ sales representatives and increased sales.
+
+
