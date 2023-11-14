@@ -10,7 +10,7 @@ I have a bachelor's degree in computer science and am passionate about creating 
 
 ## Skills:<br/>
 
-### -Technical Skills:<br/>
+### -Technical Skills:
 
   #### • Back End :
    - TypesScript<br/>
@@ -44,7 +44,7 @@ I have a bachelor's degree in computer science and am passionate about creating 
    - Next Auth<br/>
    - Passport.js<br/>
 
-### -Soft Skills:<br/>
+### -Soft Skills:
    - Effective communication skills
    - Leadership & Management
    - Resarch Skill
@@ -79,5 +79,5 @@ I have a bachelor's degree in computer science and am passionate about creating 
 
 ## Education:
 
-### - Bachelor's degree in Web Design & Development
-    #### • University of Applied Science and Technology
+### - Bachelor's degree in Web Design and Development
+     University of Applied Science and Technology
