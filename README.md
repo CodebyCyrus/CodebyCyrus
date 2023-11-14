@@ -1,7 +1,6 @@
- Hi there 
 
 <h1>Mohammad Makaremnejad</h1> 
-## Full Stack Developer | Software Engineer​
+<h2> Full Stack Developer | Software Engineer​ </h2>
 
 ### Hi there! 👋
 My nickname is Cyrus and I'm a highly motivated Full Stack Developer with over 9 years of experience.
