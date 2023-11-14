@@ -10,7 +10,7 @@ I have a bachelor's degree in computer science and am passionate about creating 
 
 Skills:<br/>
 
--Technical Skills:
+-Technical Skills:<br/>
   • Back End :
    - TypesScript<br/>
    - NEXT<br/>
@@ -43,6 +43,14 @@ Skills:<br/>
    - Next Auth<br/>
    - Passport.js<br/>
 
+-Soft Skills:<br/>
+   - Effective communication skills
+   - Leadership & Management
+   - Resarch Skill
+   - Analytical Skills
+   - Problem Solving
+   - Teamwork
+   - Customer Service
    
 Experience:
 
