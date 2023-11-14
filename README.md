@@ -10,22 +10,34 @@ I have a bachelor's degree in computer science and am passionate about creating 
 
 Skills:<br/>
 
--Technical Skills:<br/>
-  • Back End :<br/>
-TypesScript, NEXT, Node.js, Express
+-Technical Skills:
+  • Back End :
+   - TypesScript<br/>
+   - NEXT<br/>
+   - Node.js<br/>
+   - Express<br/>
 
-  • Front End:<br/>
-React, Tailwind, Shadcn, Bootstrap, HTML, CSS, JavaScript
+  • Front End:
+   - React<br/>
+   - Tailwind<br/>
+   - Shadcn<br/>
+   - Bootstrap<br/>
+   - JavaScript<br/>
+   - CSS<br/>
+   - HTML<br/>
 
-  • Databases:<br/>
-MongoDB, Mongoose, MySQL, Prisma ORM
+  • Databases:
+   - MongoDB<br/>
+   - Mongoose<br/>
+   - MySQL<br/>
+   - Prisma ORM<br/>
 
-  • CMS & Platforms:<br/>
+  • CMS & Platforms:
    - Wordpress<br/>
    - Sanity<br/>
    - Stripe<br/>
 
-  • Auth & Tools:<br/>
+  • Auth & Tools:
    - Clerk<br/>
    - Firebase<br/>
    - Next Auth<br/>
