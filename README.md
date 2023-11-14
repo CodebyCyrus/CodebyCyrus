@@ -48,8 +48,8 @@ I have a bachelor's degree in computer science and am passionate about creating 
    - Customer Service
    
 ## Experience:
-### - Senior Full Stack Developer<br/>
-   ### Amirkabir Carpet | Oct 2020 to Oct 2023 (3Years)<br/>
+ - Senior Full Stack Developer<br/>
+   Amirkabir Carpet | Oct 2020 to Oct 2023 (3Years)<br/>
   • Designed and developed responsive and user-friendly web applications using Typescript, NEXT & MERN Stack( React, Node.js, Express, and MongoDB ).<br/>
 
   • Designed and developed the company's website using WordPress, PHP, and MySQL .<br/>
@@ -59,8 +59,8 @@ I have a bachelor's degree in computer science and am passionate about creating 
   • Digital marketing: SEO of the site and products along with creating more than 200 exclusive Instagram posts and designing a beautiful template for the posts.<br/>
 
 
-### - Full Stack Developer<br/>
-    #### Amiran Textile | Oct 2016 to Sep 2020 (4Years)<br/>
+ - Full Stack Developer<br/>
+   Amiran Textile | Oct 2016 to Sep 2020 (4Years)<br/>
     • Designed and developed the company's website using WordPress, PHP, and MySQL .<br/>
 
     • Designed and implemented user interfaces using HTML, CSS, and JavaScript.<br/>
