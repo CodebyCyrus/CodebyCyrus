@@ -10,13 +10,11 @@ I have a bachelor's degree in computer science and am passionate about creating 
 
 ## Skills:
 ### -Technical Skills:
-
   #### • Back End :
    - TypesScript<br/>
    - NEXT<br/>
    - Node.js<br/>
    - Express<br/>
-
   #### • Front End:
    - React<br/>
    - Tailwind<br/>
@@ -25,18 +23,15 @@ I have a bachelor's degree in computer science and am passionate about creating 
    - JavaScript<br/>
    - CSS<br/>
    - HTML<br/>
-
   #### • Databases:
    - MongoDB<br/>
    - Mongoose<br/>
    - MySQL<br/>
    - Prisma ORM<br/>
-
   #### • CMS & Platforms:
-   - Wordpress<br/>
+   - WordPress<br/>
    - Sanity<br/>
    - Stripe<br/>
-
   #### • Auth & Tools:
    - Clerk<br/>
    - Firebase<br/>
@@ -53,9 +48,8 @@ I have a bachelor's degree in computer science and am passionate about creating 
    - Customer Service
    
 ## Experience:
-
 ### - Senior Full Stack Developer<br/>
-  #### Amirkabir Carpet | Oct 2020 to Oct 2023 (3Years)<br/>
+   ### Amirkabir Carpet | Oct 2020 to Oct 2023 (3Years)<br/>
   • Designed and developed responsive and user-friendly web applications using Typescript, NEXT & MERN Stack( React, Node.js, Express, and MongoDB ).<br/>
 
   • Designed and developed the company's website using WordPress, PHP, and MySQL .<br/>
