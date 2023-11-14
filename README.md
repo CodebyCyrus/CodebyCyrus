@@ -21,7 +21,7 @@ Experience:
   • Digital marketing: SEO of the site and products along with creating more than 200 exclusive Instagram posts and designing a beautiful template for the posts.
 
 
-  - Full Stack Developer
+- Full Stack Developer
     Amiran Textile | Oct 2016 to Sep 2020 (4Years)
     • Designed and developed the company's website using WordPress, PHP, and MySQL .
 
