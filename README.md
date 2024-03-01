@@ -15,7 +15,7 @@ I have a bachelor's degree in computer science and am passionate about creating 
    - NEXT.js<br/>
    - NodeJS<br/>
    - Express<br/>
-    - PHP <br/>
+   - PHP <br/>
   #### • Front End:
    - React<br/>
    - Tailwind<br/>
