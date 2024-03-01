@@ -1,6 +1,6 @@
 
 # Mohammad Makaremnejad
-## Full Stack Developer | Software Engineer​
+## Full Stack WEB Developer | Front-End Developer
 
 ### Hi there! 👋
 My nickname is Cyrus and I'm a highly motivated Full Stack Developer with over 9 years of experience.<br/>
