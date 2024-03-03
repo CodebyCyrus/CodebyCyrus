@@ -18,7 +18,7 @@ I have a bachelor's degree in computer science and am passionate about creating 
    - PHP <br/>
   #### • Front End:
    - React<br/>
-   - Tailwind<br/>
+   - Tailwind CSS<br/>
    - Shadcn<br/>
    - Bootstrap<br/>
    - JavaScript<br/>
