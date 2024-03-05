@@ -10,7 +10,7 @@ I have a bachelor's degree in computer science and am passionate about creating 
 
 ## Skills:
 ### -Technical Skills:
-  #### • Back End :
+  #### • Server-side (Backend):
    - TypesScript<br/>
    - NEXT.js<br/>
    - NodeJS<br/>
