@@ -11,11 +11,7 @@ I have a bachelor's degree in computer science and am passionate about creating 
 ## Skills:
 ### -Technical Skills:
   #### • Server-side (Backend):
-   - TypesScript<br/>
-   - NEXT.js<br/>
-   - NodeJS<br/>
-   - Express<br/>
-   - PHP <br/>
+   - TypeScript, Node.js, Next.js, PHP
   #### • Front End:
    - React<br/>
    - Tailwind CSS<br/>
