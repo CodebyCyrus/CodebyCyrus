@@ -12,14 +12,10 @@ I have a bachelor's degree in computer science and am passionate about creating 
 ### -Technical Skills:
   #### • Server-side (Backend):
    - TypeScript, Node.js, Next.js, PHP
-  #### • Front End:
-   - React<br/>
-   - Tailwind CSS<br/>
-   - Shadcn<br/>
-   - Bootstrap<br/>
-   - JavaScript<br/>
-   - CSS<br/>
-   - HTML<br/>
+     
+  #### • Client-side (Frontend):
+   - JavaScript, React.js, Vue.js, SCSS, CSS3, HTML5, Tailwind CSS, Shadcn/Ui, Bootstrap
+     
   #### • Databases:
    - MongoDB<br/>
    - Mongoose<br/>
