@@ -53,8 +53,8 @@ I have a bachelor's degree in computer science and am passionate about creating 
     • Digital marketing: SEO of the site and products along with creating more than 200 exclusive Instagram posts and designing a beautiful template for the posts.<br/>
 
 
- - Full Stack Developer<br/>
-   Amiran Textile | Oct 2016 to Sep 2020 (4Years)<br/>
+ - Full Stack Engineer and WordPress Developer<br/>
+   Amiran International Textile and Carpet Production Company | Aug 2015 – Nov 2019<br/>
    
     • Designed and developed the company's website using WordPress, PHP, and MySQL .<br/>
 
