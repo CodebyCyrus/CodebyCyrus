@@ -17,10 +17,8 @@ I have a bachelor's degree in computer science and am passionate about creating 
    - JavaScript, React.js, Vue.js, SCSS, CSS3, HTML5, Tailwind CSS, Shadcn/Ui, Bootstrap
      
   #### • Databases:
-   - MongoDB<br/>
-   - Mongoose<br/>
-   - MySQL<br/>
-   - Prisma ORM<br/>
+   - MongoDB, MySQL, PostgreSQL, Prisma ORM, Mongoose ODM, Firebase, Redis
+     
   #### • CMS & Platforms:
    - WordPress<br/>
    - Sanity<br/>
