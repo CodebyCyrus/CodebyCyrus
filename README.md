@@ -23,11 +23,8 @@ I have a bachelor's degree in computer science and am passionate about creating 
   
 - Express.js, jQuery, Socket.IO, Playwright (BDD, TDD, E2E), Redux
      
-  #### • Auth & Tools:
-   - Clerk<br/>
-   - Firebase<br/>
-   - Next Auth<br/>
-   - Passport.js<br/>
+  #### • Web Tech & Cloud:
+   -  NextAuth.js, OAuth, Passport.js, JWT, Clerk, WordPress, Sanity.IO, GraphQL, WEB3, Stripe, AWS
 
 ### -Soft Skills:
    - Effective communication skills
