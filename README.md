@@ -19,10 +19,10 @@ I have a bachelor's degree in computer science and am passionate about creating 
   #### • Databases:
    - MongoDB, MySQL, PostgreSQL, Prisma ORM, Mongoose ODM, Firebase, Redis
      
-  #### • CMS & Platforms:
-   - WordPress<br/>
-   - Sanity<br/>
-   - Stripe<br/>
+  #### • Frameworks/Libraries:
+  
+- Express.js, jQuery, Socket.IO, Playwright (BDD, TDD, E2E), Redux
+     
   #### • Auth & Tools:
    - Clerk<br/>
    - Firebase<br/>
