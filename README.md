@@ -21,7 +21,7 @@ I have a bachelor's degree in computer science and am passionate about creating 
      
   #### • Frameworks/Libraries:
   
-- Express.js, jQuery, Socket.IO, Playwright (BDD, TDD, E2E), Redux
+   - Express.js, jQuery, Socket.IO, Playwright (BDD, TDD, E2E), Redux
 
   #### • Web Tech & Cloud:
    -  NextAuth.js, OAuth, Passport.js, JWT, Clerk, WordPress, Sanity.IO, GraphQL, WEB3, Stripe, AWS
