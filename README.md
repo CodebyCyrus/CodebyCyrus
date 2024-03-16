@@ -26,6 +26,9 @@ I have a bachelor's degree in computer science and am passionate about creating 
   #### • Web Tech & Cloud:
    -  NextAuth.js, OAuth, Passport.js, JWT, Clerk, WordPress, Sanity.IO, GraphQL, WEB3, Stripe, AWS
 
+ #### • Relevant Skills:
+   -  Agile, Version Control (Git), GitHub, CI/CD, OOP, RESTful API, SEO, Digital Marketing, Docker
+
 ### -Soft Skills:
    - Effective communication skills
    - Leadership & Management
