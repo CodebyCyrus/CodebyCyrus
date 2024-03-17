@@ -42,9 +42,9 @@ I have a bachelor's degree in computer science and am passionate about creating 
  - Senior Full Stack Developer<br/>
    Amir Kabir Trading Company | Oct 2020 to Oct 2023 (3Years)<br/>
    
-    • Designed and developed responsive and user-friendly web applications using Typescript, NEXT & MERN Stack( React, Node.js, Express, and MongoDB.<br/>
+    • Pioneered highly interactive and responsive web applications using TypeScript, Node.js, Next.js, React, Express.js, and MongoDB, resulting in a 35% increase in website impressions and user engagement metrics.<br/>
 
-    • Designed and developed the company's website using WordPress, PHP, and MySQL .<br/>
+    • Implemented WordPress, PHP, React.js, and MySQL to revamp the company's website; strategically enhanced UI/UX elements, resulting in a substantial 50% increase in website visits and an impressive 30% surge in web conversions.<br/>
 
     • Contributed to the development of internal tools and frameworks to improve the efficiency and consistency of development processes.<br/>
 
