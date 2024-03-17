@@ -40,9 +40,9 @@ I have a bachelor's degree in computer science and am passionate about creating 
    
 ## Experience:
  - Senior Full Stack Developer<br/>
-   Amirkabir Carpet | Oct 2020 to Oct 2023 (3Years)<br/>
+   Amir Kabir Trading Company | Oct 2020 to Oct 2023 (3Years)<br/>
    
-    • Designed and developed responsive and user-friendly web applications using Typescript, NEXT & MERN Stack( React, Node.js, Express, and MongoDB ).<br/>
+    • Designed and developed responsive and user-friendly web applications using Typescript, NEXT & MERN Stack( React, Node.js, Express, and MongoDB.<br/>
 
     • Designed and developed the company's website using WordPress, PHP, and MySQL .<br/>
 
