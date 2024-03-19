@@ -46,7 +46,7 @@ I have a bachelor's degree in computer science and am passionate about creating 
 
     • Implemented WordPress, PHP, React.js, and MySQL to revamp the company's website; strategically enhanced UI/UX elements, resulting in a substantial 50% increase in website visits and an impressive 30% surge in web conversions.<br/>
 
-    • Led the collaboration on the innovation of proprietary software frameworks, driving the optimization of development processes, leading to a 70% increase in efficiency.<br/>
+    • Spearheaded data-driven digital marketing campaigns, optimizing SEO across websites and product pages, culminating in a remarkable 80% elevation in search engine rankings.<br/>
 
     • Digital marketing: SEO of the site and products along with creating more than 200 exclusive Instagram posts and designing a beautiful template for the posts.<br/>
 
