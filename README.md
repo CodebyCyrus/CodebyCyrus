@@ -66,5 +66,6 @@ I have a bachelor's degree in computer science and am passionate about creating 
 
 ## Education:
 
- - Bachelor's degree in Web Design and Development
-   University of Applied Science and Technology
+Dec 2012 – Feb 2015
+ - Bachelor's Degree in Computer Science | University of Applied Science and Technology, IR
+
