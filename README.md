@@ -55,7 +55,7 @@ I have a bachelor's degree in computer science and am passionate about creating 
  - Full Stack Engineer and WordPress Developer<br/>
    Amiran International Textile and Carpet Production Company | Aug 2015 – Nov 2019<br/>
    
-    • Designed and developed the company's website using WordPress, PHP, and MySQL .<br/>
+    • Revamped website user interfaces using HTML, CSS, and JavaScript, resulting in a remarkable 25% increase in website engagement and user retention, driving significant revenue growth.<br/>
 
     • Designed and implemented user interfaces using HTML, CSS, and JavaScript.<br/>
 
