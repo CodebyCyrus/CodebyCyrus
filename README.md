@@ -57,7 +57,7 @@ I have a bachelor's degree in computer science and am passionate about creating 
    
     • Revamped website user interfaces using HTML, CSS, and JavaScript, resulting in a remarkable 25% increase in website engagement and user retention, driving significant revenue growth.<br/>
 
-    • Designed and implemented user interfaces using HTML, CSS, and JavaScript.<br/>
+    • Orchestrated the enhancement of internal tools and processes, resulting in a 30% reduction in development time.<br/>
 
     • Contributed to developing internal tools and processes, improving efficiency and quality.<br/>
 
