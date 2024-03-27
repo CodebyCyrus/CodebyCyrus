@@ -61,7 +61,9 @@ I have a bachelor's degree in computer science and am passionate about creating 
 
     • Analyzed market trends, optimized digital marketing efforts, and devised a robust branding strategy, leading to the successful onboarding of 29+ sales representatives and delivering a substantial 40% growth in product sales.<br/>
 
-    • Conducted market analysis, improved digital marketing, and strengthened branding, resulting in the addition of 29+ sales representatives and increased sales.<br/>
+    • Engaged closely with the Tech team to identify and address software bugs, promoting collaborative Remediation and reducing post-release issues by 25%.<br/>
+
+    
 
 
 ## Education:
