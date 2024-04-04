@@ -28,15 +28,6 @@ I have a bachelor's degree in computer science and am passionate about creating 
 
  #### • Relevant Skills:
    -  Agile, Version Control (Git), GitHub, CI/CD, OOP, RESTful API, SEO, Digital Marketing, Docker
-
-### -Soft Skills:
-   - Effective communication skills
-   - Leadership & Management
-   - Resarch Skill
-   - Analytical Skills
-   - Problem Solving
-   - Teamwork
-   - Customer Service
    
 ## Experience:
  - Senior Full Stack Developer<br/>
