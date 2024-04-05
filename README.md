@@ -1,5 +1,5 @@
 
-# Mohammad Makaremnejad (aka: Cyrus)
+# Mohammad Makaremnejad
 ## Full Stack WEB Developer | Front-End Developer | WordPress Developer
 
 ### Hi there! 👋
