@@ -14,7 +14,7 @@ I have a bachelor's degree in computer science and am passionate about creating 
    - TypeScript, Node.js, Next.js, PHP
      
   #### • Client-side (Frontend):
-   - JavaScript, React.js, Vue.js, SCSS, CSS3, HTML5, Tailwind CSS, Shadcn/Ui, Bootstrap
+   - JavaScript, React.js, Three.js, GASP, SCSS, CSS3, HTML5, Tailwind CSS, Shadcn/Ui, Bootstrap
      
   #### • Databases:
    - MongoDB, MySQL, PostgreSQL, Prisma ORM, Mongoose ODM, Firebase, Redis
