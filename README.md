@@ -30,8 +30,13 @@ I have a bachelor's degree in computer science and am passionate about creating 
    -  Agile, Version Control (Git), GitHub, CI/CD, OOP, RESTful API, SEO, Digital Marketing, Docker
    
 ## Experience:
+ - Full Stack Developer<br/>
+   Freelance | Remote | Jan 2015 – Present <br/>
+   
+    • Building over 70 website projects utilizing MERN Stack, TypeScript, Next.js, PHP, and WordPress. Demonstrating proficiency in digital marketing strategies, contributing to successful branding initiatives for various companies.<br/>
+    
  - Senior Full Stack Developer<br/>
-   Amir Kabir Trading Company | Oct 2020 to Oct 2023 (3Years)<br/>
+   Amir Kabir Trading Company | Oct 2020 to Oct 2023<br/>
    
     • Pioneered highly interactive and responsive web applications using TypeScript, Node.js, Next.js, React, Express.js, and MongoDB, resulting in a 35% increase in website impressions and user engagement metrics.<br/>
 
@@ -44,7 +49,7 @@ I have a bachelor's degree in computer science and am passionate about creating 
     • Cultivated and executed training programs for team members, enhancing skill sets and contributing to a 90% increase in overall team competence.<br/>
 
  - Full Stack Engineer and WordPress Developer<br/>
-   Amiran International Textile and Carpet Production Company | Aug 2015 – Nov 2019<br/>
+   Amiran Textile and Carpet Production Company | Aug 2015 – Nov 2019<br/>
    
     • Revamped website user interfaces using HTML, CSS, and JavaScript, resulting in a remarkable 25% increase in website engagement and user retention, driving significant revenue growth.<br/>
 
