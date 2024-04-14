@@ -44,8 +44,6 @@ I have a bachelor's degree in computer science and am passionate about creating 
 
     • Spearheaded data-driven digital marketing campaigns, optimizing SEO across websites and product pages, culminating in a remarkable 80% elevation in search engine rankings.<br/>
 
-    • Crafted a captivating assortment of 200+ exclusive Instagram posts, resulting in an impressive 20% surge in website traffic and a significant 15% boost in merchandise trades.<br/>
-
     • Cultivated and executed training programs for team members, enhancing skill sets and contributing to a 90% increase in overall team competence.<br/>
 
  - Full Stack Engineer and WordPress Developer<br/>
