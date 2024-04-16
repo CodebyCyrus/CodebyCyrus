@@ -53,8 +53,6 @@ I have a bachelor's degree in computer science and am passionate about creating 
 
     • Orchestrated the enhancement of internal tools and processes, resulting in a 30% reduction in development time.<br/>
 
-    • Analyzed market trends, optimized digital marketing efforts, and devised a robust branding strategy, leading to the successful onboarding of 29+ sales representatives and delivering a substantial 40% growth in product sales.<br/>
-
    • Engineered and executed a comprehensive database optimization strategy, resulting in a 40% reduction in query response time and enhancing overall system performance.<br/>
 
     • Engaged closely with the Tech team to identify and address software bugs, promoting collaborative Remediation and reducing post-release issues by 25%.<br/>
