@@ -1,6 +1,6 @@
 
 # Mohammad Makaremnejad
-## Full Stack Webapp Developer | Front-End React Developer | WordPress Developer
+## Full Stack Webapp Developer | Front-End Developer | WordPress Developer
 
 
 My nickname is Cyrus and I'm a highly motivated Full Stack Developer with over 9 years of experience.<br/>
