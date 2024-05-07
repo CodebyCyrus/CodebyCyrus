@@ -1,4 +1,4 @@
-#
+##
 # Mohammad Makaremnejad
 ## Full Stack Webapp Developer | Front-End Developer | WordPress Developer
 
@@ -11,7 +11,7 @@ I have a bachelor's degree in computer science and am passionate about creating 
 ## Skills:
 ### -Technical Skills:
   #### • Server-side (Backend):
-   - TypeScript, Node.js, Next.js, PHP
+   - TypeScript, Node.js, Next.js, PHP, Python
      
   #### • Client-side (Frontend):
    - JavaScript, React.js, Three.js, GASP, SCSS, CSS3, HTML5, Tailwind CSS, Shadcn, Bootstrap
