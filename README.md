@@ -11,23 +11,26 @@ I have a bachelor's degree in computer science and am passionate about creating 
 ## Skills:
 ### -Technical Skills:
   #### • Server-side (Backend):
-   - TypeScript, Node.js, Next.js, PHP, Python, Django
+   - TypeScript, Node.js, JavaScript, Python, Django, PHP
      
   #### • Client-side (Frontend):
-   - JavaScript, React.js, Three.js, GASP, SCSS, CSS3, HTML5, Tailwind CSS, Shadcn, Bootstrap
+   - React.js, Vue.js, Angular, jQuery, Tailwind CSS, SCSS, CSS3, HTML5, Bootstrap
      
   #### • Databases:
-   - MongoDB, MySQL, PostgreSQL, Prisma ORM, Mongoose ODM, Firebase, Redis
+   - MongoDB, MySQL, PostgreSQL, Prisma ORM, Mongoose ODM, Redis
      
   #### • Frameworks/Libraries:
   
-   - Express.js, jQuery, Socket.IO, Redux
+   - Next.js, Express.js, Nest.js, Nuxt.js, Socket.IO, Redux, Three.js, GSAP, Shadcn
 
   #### • Web Tech & Cloud:
-   -  NextAuth.js, OAuth, Passport.js, JWT, Clerk, WordPress, Sanity.IO, GraphQL, WEB3, Stripe, AWS
+   -  WordPress, Headless CMS, GraphQL, WEB3, Stripe, AWS, Passport.js, NextAuth.js (OAuth, JWT)
+
+  #### • Testing & QA:
+   -  Testing Library, Vitest, Unit Testing, Integration Testing, Functional Testing, End-to-End Testing, Acceptance Testing
 
  #### • Relevant Skills:
-   -  Agile, Version Control (Git), GitHub, CI/CD, OOP, RESTful API, SEO, Digital Marketing, Docker
+   -  Version Control, Git, GitHub, CI/CD, RESTful API, Docker, Jira, MVC, Microservices, Sentry.io, SEO, Digital Marketing
    
 ## Experience:
  - Full Stack Developer<br/>
